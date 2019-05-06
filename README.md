@@ -8,3 +8,5 @@ Any updates made here are propogated to those other repos by running `git submod
 Repos currently using this submodule are:
 * threeplaymedia_app3
 * advanced_captions_server
+
+Some decent information about submodules can be found here: https://www.vogella.com/tutorials/GitSubmodules/article.html#submodules
